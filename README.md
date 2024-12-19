@@ -2,7 +2,7 @@
 This project analyzes customer purchase data to identify trends, popular products and customer behavior. It involves data loading, preprocessing, 
 exploratory data analysis, visualization, web scraping and custom analytics features.
 
-# Resources Used
+## Resources Used
    - __Python Version__: 3.8.5
    - __Packages__: pandas, numpy, matplotlib, seaborn, requests, beautifulsoup4
    - __Dataset Source__: https://www.kaggle.com/datasets/shrishtimanja/ecommerce-dataset-for-data-analysis
