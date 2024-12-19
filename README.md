@@ -11,11 +11,11 @@ exploratory data analysis, visualization, web scraping and custom analytics feat
 
 1. **Environment Setup:**
    - Install necessary libraries using the following commands:
-               !pip install pandas==1.5.3 
-               !pip install matplotlib==3.7.1 
-               !pip install seaborn==0.12.2 
-               !pip install requests==2.28.2 
-               !pip install beautifulsoup4==4.12.2
+        - !pip install pandas==1.5.3 
+        - pip install matplotlib==3.7.1 
+        - !pip install seaborn==0.12.2 
+        - !pip install requests==2.28.2 
+        - !pip install beautifulsoup4==4.12.2
 
 2. **Data Loading:**
    - Load the `customer_purchase.csv` dataset and place it in the `content` directory within your Colab environment.
